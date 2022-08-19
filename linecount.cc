@@ -3,8 +3,8 @@
 using namespace std;
 
 // output format to use IDENTICALLY:
-//BSH:Saru> ./filesize input.3lines input.1line 
-//program: ./filesize
+//BSH:Saru> ./linecount input.3lines input.1line 
+//program: ./linecount
 // input.3lines: 3
 // input.1line: 1
 
